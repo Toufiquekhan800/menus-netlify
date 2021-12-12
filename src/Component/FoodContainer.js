@@ -36,6 +36,7 @@ const FoodContainer = () => {
     return (
         <>
         <FoodCategory navData={navData} filterMenu={filterMenu} />
+        <h1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, accusamus.</h1>
         <FoodMenu menuData={menuData}/>
         </>
     )
